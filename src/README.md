@@ -1,17 +1,17 @@
 ---
 home: true
 icon: house
-title: 摸鱼岛
+title: 摸鱼岛🌟
 heroImage: https://pic.rmb.bdstatic.com/bjh/news/c0afb3b38710698974ac970434e8eb71.png
 #bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: 摸鱼岛
+heroText: 摸鱼岛✨
 tagline: 功能丰富、趣味十足的在线聊天社区，让交流更轻松、更有趣✨
 actions:
   - text: 进入文档
-    icon: book
+    icon: lightbulb
     link: ./guide/
     type: primary
 
@@ -21,6 +21,8 @@ actions:
 
 features:
   - title: 轻松入门
+    link: ./demo/
+    
     icon: rocket
     details: 5分钟上手，1小时玩转全部功能
     

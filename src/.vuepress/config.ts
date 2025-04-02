@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/fish-island/",
 
   lang: "zh-CN",
-  title: "文档演示",
-  description: "vuepress-theme-hope 的文档演示",
+  title: "摸鱼岛",
+  description: "摸鱼岛，一个关于摸鱼的地方。",
 
   theme,
 

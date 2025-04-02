@@ -7,11 +7,11 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "聪",
+    url: "https://github.com/lhccong",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://pic.rmb.bdstatic.com/bjh/news/c0afb3b38710698974ac970434e8eb71.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
