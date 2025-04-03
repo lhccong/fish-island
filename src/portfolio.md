@@ -1,6 +1,6 @@
 ---
-home: true
-portfolio: true
+home: false
+portfolio: false
 title: 档案主页
 icon: house
 welcome: 👋 你好，我是

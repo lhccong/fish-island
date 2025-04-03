@@ -1,7 +1,7 @@
 ---
 home: true
 icon: house
-title: 摸鱼岛🌟
+title: 功能介绍🌟
 heroImage: https://pic.rmb.bdstatic.com/bjh/news/c0afb3b38710698974ac970434e8eb71.png
 #bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
